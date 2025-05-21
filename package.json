@@ -1,0 +1,10 @@
+{
+  "name": "pi-herdsman",
+  "version": "0.1.0",
+  "description": "Asynchronous Pi subagents and agent fleet orchestration for parallel coding agents with nested delegation, background work, and supervision in herdr.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
